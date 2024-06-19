@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "anvil-formatting-fix",
+  "version": "${version}",
+  "name": "Anvil Formatting Fix",
+  "description": "Mod that adds formatting to anvils.",
+  "author": [
+    "Potat369"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+  "license": "",
+  "icon": "assets/anvil-formatting-fix/icon.png",
+  "environment": "client",
+  "mixins": [
+    "anvil-formatting-fix.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21",
+    "java": ">=21"
+  }
+}
