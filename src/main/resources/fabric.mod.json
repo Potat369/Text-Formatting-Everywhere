@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "id": "anvil-formatting-fix",
+  "id": "text-formatting-everywhere",
   "version": "${version}",
-  "name": "Anvil Formatting Fix",
-  "description": "Mod that adds formatting to anvils.",
-  "author": [
-    "Potat369"
-  ],
+  "name": "Text Formatting Everywhere",
+  "description": "Mod that adds formatting everywhere (Does not work on servers!)",
   "contact": {
     "sources": "https://github.com/Potat369/AnvilFormattingFix"
   },
-  "license": "",
-  "icon": "assets/anvil-formatting-fix/icon.png",
+  "authors": [
+    "Potat369"
+  ],
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "icon": "assets/text-formatting-everywhere/icon.png",
   "environment": "client",
   "mixins": [
-    "anvil-formatting-fix.mixins.json"
+    "text-formatting-everywhere.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.15.11",
-    "minecraft": "~1.21",
+    "minecraft": ">=1.20.5",
     "java": ">=21"
   }
 }
