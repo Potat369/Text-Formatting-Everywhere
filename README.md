@@ -1,6 +1,7 @@
 # Text Formatting Everwhere
 
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/text-formatting-everywhere?style=for-the-badge&logo=modrinth&color=%2300AF5C)](https://modrinth.com/mod/text-formatting-everywhere)
+[![CurseForge Downloads](https://img.shields.io/curseforge/dt/1152847?style=for-the-badge&logo=curseforge&color=%23F16436)](https://www.curseforge.com/minecraft/mc-mods/text-formatting-everywhere)
 
 ## Description
 
