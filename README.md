@@ -7,7 +7,7 @@
 
 Mod for Fabric Mod Loader 1.20.5+
 
-Removes restriction in typing section sign (§), therefore allows yuu to use [formatting](https://minecraft.wiki/w/Formatting_codes) everywhere.
+Removes restriction in typing section sign (§), therefore allows you to use [formatting](https://minecraft.wiki/w/Formatting_codes) everywhere.
 
 ## License 
 
